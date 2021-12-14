@@ -1,0 +1,11 @@
+C:\Users\REMOTO\Documents\Visual Studio 2017\Projetos\DailyReadingRS\DailyReadingRS\bin\Debug\RSDiaryReading.exe.config
+C:\Users\REMOTO\Documents\Visual Studio 2017\Projetos\DailyReadingRS\DailyReadingRS\bin\Debug\RSDiaryReading.exe
+C:\Users\REMOTO\Documents\Visual Studio 2017\Projetos\DailyReadingRS\DailyReadingRS\bin\Debug\RSDiaryReading.pdb
+C:\Users\REMOTO\Documents\Visual Studio 2017\Projetos\DailyReadingRS\DailyReadingRS\obj\Debug\RSDiaryReading.csprojAssemblyReference.cache
+C:\Users\REMOTO\Documents\Visual Studio 2017\Projetos\DailyReadingRS\DailyReadingRS\obj\Debug\RSDiaryReading.View.AboutBox1.resources
+C:\Users\REMOTO\Documents\Visual Studio 2017\Projetos\DailyReadingRS\DailyReadingRS\obj\Debug\RSDiaryReading.View.frm_diary_reading.resources
+C:\Users\REMOTO\Documents\Visual Studio 2017\Projetos\DailyReadingRS\DailyReadingRS\obj\Debug\RSDiaryReading.Properties.Resources.resources
+C:\Users\REMOTO\Documents\Visual Studio 2017\Projetos\DailyReadingRS\DailyReadingRS\obj\Debug\RSDiaryReading.csproj.GenerateResource.cache
+C:\Users\REMOTO\Documents\Visual Studio 2017\Projetos\DailyReadingRS\DailyReadingRS\obj\Debug\RSDiaryReading.csproj.CoreCompileInputs.cache
+C:\Users\REMOTO\Documents\Visual Studio 2017\Projetos\DailyReadingRS\DailyReadingRS\obj\Debug\RSDiaryReading.exe
+C:\Users\REMOTO\Documents\Visual Studio 2017\Projetos\DailyReadingRS\DailyReadingRS\obj\Debug\RSDiaryReading.pdb
